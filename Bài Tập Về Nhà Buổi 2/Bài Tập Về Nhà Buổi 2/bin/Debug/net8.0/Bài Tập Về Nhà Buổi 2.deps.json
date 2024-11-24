@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bài Tập Về Nhà Buổi 2/1.0.0": {
+        "runtime": {
+          "Bài Tập Về Nhà Buổi 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bài Tập Về Nhà Buổi 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
